@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi 👋 I'm Mustafa 
+🎓 1st Year CSE Student
+💻 Learning Python, C/C++, DSA & Web Development 
+🚀 Aspiring Software Engineer
+## 🔧 Skills - Python - C / C++ - HTML, CSS, JavaScript - Git & GitHub ## 
+📫 Connect with me - GitHub: https://github.com/msmustafa0821
+- LinkedIn: https://www.linkedin.com/in/mohammed-shaik-mustafa-343742333/
 
 <!--
 **msmustafa0821/msmustafa0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
