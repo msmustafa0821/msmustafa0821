@@ -2,7 +2,7 @@
 
 🎓 1st Year CSE Student  
 💻 Learning Python, C/C++, DSA & Web Development  
-🚀 Aspiring Software Engineer  
+🚀 Software Engineer  
 
 ## 🔧 Skills
 - Python
@@ -10,8 +10,8 @@
 - Git & GitHub
 
 ## 📌 Current Focus
-- Python basics
-- Data Structures & Algorithms
+- front end 
+- html , css and js
 - Small beginner projects
 
 ## 📫 Connect with me
