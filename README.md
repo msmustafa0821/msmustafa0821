@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mustafa
 
-🎓 1st Year CSE Student  
+🎓 2nd Year CSE Student  
 💻 Learning Python, C/C++, DSA & Web Development  
 🚀 Software Engineer  
 
@@ -10,9 +10,9 @@
 - Git & GitHub
 
 ## 📌 Current Focus
-- front end 
-- html , css and js
-- Small beginner projects
+- dsa
+- full stack 
+- projects
 
 ## 📫 Connect with me
 - GitHub: [msmustafa0821](https://github.com/msmustafa0821)
